@@ -44,8 +44,8 @@ A website like ourselves, that saves cookies and gathers information on users mu
 
 
 ## Definition of done
-* Provide link to a github repository of installable wordpress plugin.
-* Provide link to a demo wordpress site front and backend configuration page.
-
+* Provide link to a github repository of installable wordpress plugin source code.
+* Provide link to a wordpress site front and admin, demonstration of yours implementation.
+* **Extra credit:** Allow cookie disclaimer content to be configured per country of visitor.
 
 Good luck!
